@@ -5,3 +5,5 @@ Se adjutan tambien una serie de imagenes de la simulacion deseada para la obtenc
 -Para poder implementar el circuito es necesario primero descomprimir dichos componentes y añadirlos a la libreria de LTSpice, un ejemplo para añadirlos: https://www.youtube.com/watch?v=Dke_-1TDZ-Q&t=119s
 -Una vez añadidos puedes configurar el driver en funcion del pico de intensidad deseado en el diodo.
 -Para realizar la simulacion es necesario que la fuente de voltaje V1 sea de tipo independiente y que conforme un pulso, el comando de simulacion debe ser .tran con tiempo de simulacion muy corto.
+https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2001_datasheet.pdf
+https://www.ti.com/product/LMG1020
